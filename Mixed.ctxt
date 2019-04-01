@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mixed
+comment1.params=n\ d
+comment1.target=Mixed(int,\ int)
+comment2.params=whole\ n\ d
+comment2.target=Mixed(int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ wholePart()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NumberTester
+comment1.params=a\ b
+comment1.target=java.lang.Comparable\ max(java.lang.Comparable,\ java.lang.Comparable)
+comment2.params=a\ b
+comment2.target=Rational\ multiply(Rational,\ Rational)
+comment3.params=a\ b
+comment3.target=Mixed\ multiply(Mixed,\ Mixed)
+comment4.params=a\ b
+comment4.target=int\ totalArea(Rectangle,\ Rectangle)
+numComments=5
